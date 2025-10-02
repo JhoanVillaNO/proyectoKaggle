@@ -1,2 +1,4 @@
-# proyectoKaggle
-Crear un modelo para predecir el redimiento de los estudiantes en las pruebas Saber Pro
+Jhoan Esteban Echeverri Villa
+Cedula: 1040183558
+Programa: Ingenieria de sistemas virtual
+Materia: Modelos y simulacion 1
