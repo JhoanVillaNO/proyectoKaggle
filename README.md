@@ -4,7 +4,7 @@ Jhoan Esteban Echeverri Villa
 Cedula: 1040183558
 
 
-Programa: Ingenieria de sistemas virtual
+Programa: Ingenieria de sistemas
 
 
-Materia: Modelos y simulacion 1
+Materia: Modelos y simulacion
