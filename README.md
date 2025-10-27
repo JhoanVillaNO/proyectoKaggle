@@ -8,3 +8,6 @@ Programa: Ingenieria de sistemas
 
 
 Materia: Modelos y simulacion
+
+
+Video Entrega 2: https://www.youtube.com/watch?v=SkpyGDJUpfA
